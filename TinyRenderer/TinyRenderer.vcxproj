@@ -19,11 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tgaimage.h" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="model.cpp" />
+    <ClCompile Include="tgaimage.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="tgaimage.cpp" />
+    <ClInclude Include="geometry.h" />
+    <ClInclude Include="model.h" />
+    <ClInclude Include="tgaimage.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

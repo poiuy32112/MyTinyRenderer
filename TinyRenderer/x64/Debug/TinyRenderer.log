@@ -1,2 +1,10 @@
 ﻿  main.cpp
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(49,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(50,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(51,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(52,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+  正在生成代码...
   TinyRenderer.vcxproj -> D:\c++(vs2022)\TinyRenderer\x64\Debug\TinyRenderer.exe
