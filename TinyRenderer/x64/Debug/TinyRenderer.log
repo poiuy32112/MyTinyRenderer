@@ -1,32 +1,38 @@
 ﻿  main.cpp
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(71,72): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(29,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(54,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
           with
           [
-              t=int
+              T=float
           ]
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(71,52): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(54,34): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
           with
           [
-              t=int
+              T=float
           ]
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(78,131): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(78,116): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(78,101): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\geometry.h(18,75): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(70,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
           with
           [
-              t=int
+              T=float
           ]
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\geometry.h(18,17): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(47,36): message : 请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(14,6): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
-D:\c++(vs2022)\TinyRenderer\TinyRenderer\geometry.h(18,70): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(70,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
           with
           [
-              t=int
+              T=float
+          ]
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(77,48): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\main.cpp(77,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
           ]
   model.cpp
   tgaimage.cpp
+D:\c++(vs2022)\TinyRenderer\TinyRenderer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
   正在生成代码...
   TinyRenderer.vcxproj -> D:\c++(vs2022)\TinyRenderer\x64\Debug\TinyRenderer.exe
